@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --ufi-primary: #0ea5e9;
+  --ufi-accent: #f59e0b;
+}
